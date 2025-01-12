@@ -15,4 +15,5 @@ gem 'benchmark'
 gem 'ostruct'
 gem 'csv'
 gem 'rdoc'
+gem 'middleman-minify-html', '~> 3.4.1'
 
