@@ -39,7 +39,6 @@
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.6.0, rbenv: 3.4.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="kramdown (v2.5.1, rbenv: 3.4.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="listen (v3.9.0, rbenv: 3.4.1) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="logger (v1.6.4, rbenv: 3.4.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="memoist (v0.16.2, rbenv: 3.4.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="middleman (v4.5.1, rbenv: 3.4.1) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="middleman-cli (v4.5.1, rbenv: 3.4.1) [gem]" level="application" />

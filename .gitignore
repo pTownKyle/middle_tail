@@ -2,6 +2,8 @@
 .cache
 .DS_Store
 .sass-cache
+.idea/
+.github/
 build/
 node_modules/  
 dist/
