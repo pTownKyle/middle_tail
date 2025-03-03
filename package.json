@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^4.0.9"
   },
   "dependencies": {
     "http-server": "^14.1.1"
